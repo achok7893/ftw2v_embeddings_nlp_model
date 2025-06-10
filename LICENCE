@@ -1,0 +1,26 @@
+Copyright (c) 2023-2025 Achir Oukelmoun et al.
+
+Permission is hereby granted, free of charge, to use, copy, and modify this software and its associated files **solely for non-commercial academic research purposes**, subject to the following conditions:
+
+1. **Non-Commercial Use Only**  
+   This code and associated models are provided exclusively for **non-commercial academic research**. Any commercial use, including but not limited to commercial product development, consulting, or offering services based on this software, is strictly prohibited without prior written permission from the authors.
+
+2. **No Warranty**  
+   The software is provided "as is", without warranty of any kind, express or implied. The authors make no guarantees regarding the correctness, performance, or fitness of this software for any particular purpose. Users are fully responsible for any consequences resulting from its use.
+
+3. **Liability Disclaimer**  
+   In no event shall the authors be held liable for any damages or losses arising from the use, misuse, or inability to use this software or its outputs.
+
+4. **Citation Requirement**  
+   All publications or works that use this software or models must cite the following paper:
+
+   > @inproceedings{oukelmoun2023study,  
+   >   title={A study on the relevance of generic word embeddings for sentence classification in hepatic surgery},  
+   >   author={Oukelmoun, Achir and Semmar, Nasredine and De Chalendar, Ga{\"e}l and Habran, Enguerrand and Vibert, Eric and Goblet, Emma and Oukelmoun, Mariame and Allard, Marc-Antoine},  
+   >   booktitle={2023 20th ACS/IEEE International Conference on Computer Systems and Applications (AICCSA)},  
+   >   pages={1--8},  
+   >   year={2023},  
+   >   organization={IEEE}  
+   > }
+
+By using this software, you acknowledge and agree to abide by all the terms stated above.
